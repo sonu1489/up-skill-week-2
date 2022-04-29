@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "address": "UK",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "address": "USA",
+      "email": "Shanna@melissa.tv",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "address": "America",
+      "email": "Nathan@yesenia.net",
+      "status": "InActive"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "address": "India",
+      "email": "Julianne.OConner@kory.org",
+      "status": "InActive"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "address": "Russia",
+      "email": "Lucio_Hettinger@annie.ca",
+      "status": "InActive"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "address": "iceland",
+      "email": "Karley_Dach@jasper.info",
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "address": "greenland",
+      "email": "Telly.Hoeger@billy.biz",
+      "status": "Active"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "address": "switerland",
+      "email": "Sherwood@rosamond.me",
+      "status": "Active"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "address": "New York",
+      "email": "Chaim_McDermott@dana.io",
+      "status": "Active"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "address": "korea",
+      "email": "Rey.Padberg@karina.biz",
+      "status": "InActive"
+    }
+  ]
+}
